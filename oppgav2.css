@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+.VelkommenText {
+  display: flex;
+}
+
+.blåKnapp {
+  display: flex;
+}
+
+.addButton {
+  display: flex;
+}
+
+.remove {
+  display: flex;
+}
